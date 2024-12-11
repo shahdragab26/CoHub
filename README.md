@@ -1,2 +1,1 @@
-# CoHub
-CoHub is a web site designed to streamline the process of finding and booking workspace rooms. The platform features images of the workspace, a room booking system, and a detailed list of available services. It provides an easy and user-friendly way for professionals to access the perfect service for their needs.
+The primary objective of this project is to develop a website for the health unit that provides essential information about its branches, clinics, and doctors, along with medical awareness articles and events. The website will also include an admin page that allows authorized users to input and update data for events and blogs, and a contact page for visitors to get in touch with the unit
